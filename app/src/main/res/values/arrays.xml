@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="fonts_list">
+        <item>Select Font</item>
+        <item>Quicksand/Quicksand-Light.ttf</item>
+        <item>Quicksand/Quicksand-Regular.ttf</item>
+        <item>Alegreya/Alegreya-Black.ttf</item>
+        <item>Alegreya/Alegreya-BlackItalic.ttf</item>
+        <item>Alegreya/Alegreya-Italic.ttf</item>
+        <item>Alegreya/Alegreya-Bold.ttf</item>
+        <item>Alegreya/Alegreya-BoldItalic.ttf</item>
+        <item>Asap/Asap-Bold.ttf</item>
+        <item>Asap/Asap-BoldItalic.ttf</item>
+        <item>Asap/Asap-Regular.ttf</item>
+        <item>Asap/Asap-Italic.ttf</item>
+        <item>News_Cycle/NewsCycle-Bold.ttf</item>
+        <item>News_Cycle/NewsCycle-Regular.ttf</item>
+        <item>Satisfy/Satisfy-Regular.ttf</item>
+        <item>Bad_Script/BadScript-Regular.ttf</item>
+        <item>Voltaire/Voltaire-Regular.ttf</item>
+        <item>Lily_Script_One/LilyScriptOne-Regular.ttf</item>
+        <item>Kreon/Kreon-Light.ttf</item>
+        <item>Kreon/Kreon-Regular.ttf</item>
+        <item>Kreon/Kreon-Bold.ttf</item>
+        <item>Crafty_Girls/CraftyGirls.ttf</item>
+        <item>Sacramento/Sacramento-Regular.ttf</item>
+        <item>Overlock/Overlock-Black.ttf</item>
+        <item>Overlock/Overlock-Regular.ttf</item>
+        <item>Overlock/Overlock-Bold.ttf</item>
+        <item>Overlock/Overlock-BoldItalic.ttf</item>
+        <item>Overlock/Overlock-BlackItalic.ttf</item>
+        <item>Overlock/Overlock-Italic.ttf</item>
+        <item>Open_Sans/OpenSans-Italic.ttf</item>
+        <item>Open_Sans/OpenSans-BoldItalic.ttf</item>
+        <item>Open_Sans/OpenSans-SemiboldItalic.ttf</item>
+        <item>Open_Sans/OpenSans-ExtraBold.ttf</item>
+        <item>Open_Sans/OpenSans-Semibold.ttf</item>
+        <item>Open_Sans/OpenSans-ExtraBoldItalic.ttf</item>
+        <item>Open_Sans/OpenSans-Bold.ttf</item>
+        <item>Open_Sans/OpenSans-Regular.ttf</item>
+        <item>Open_Sans/OpenSans-Light.ttf</item>
+        <item>Open_Sans/OpenSans-LightItalic.ttf</item>
+        <item>Chivo/Chivo-Regular.ttf</item>
+        <item>Chivo/Chivo-BlackItalic.ttf</item>
+        <item>Chivo/Chivo-Black.ttf</item>
+        <item>Chivo/Chivo-Italic.ttf</item>
+        <item>Duru_Sans/DuruSans-Regular.ttf</item>
+        <item>Telex/Telex-Regular.ttf</item>
+        <item>Pacifico/Pacifico.ttf</item>
+        <item>Varela_Round/VarelaRound-Regular.ttf</item>
+        <item>Chewy/Chewy.ttf</item>
+        <item>Dosis/Dosis-ExtraLight.ttf</item>
+        <item>Dosis/Dosis-Medium.ttf</item>
+        <item>Dosis/Dosis-Light.ttf</item>
+        <item>Dosis/Dosis-ExtraBold.ttf</item>
+        <item>Dosis/Dosis-Bold.ttf</item>
+        <item>Dosis/Dosis-SemiBold.ttf</item>
+        <item>Dosis/Dosis-Regular.ttf</item>
+        <item>Raleway/Raleway-SemiBold.ttf</item>
+        <item>Raleway/Raleway-Thin.ttf</item>
+        <item>Raleway/Raleway-ExtraBold.ttf</item>
+        <item>Raleway/Raleway-Medium.ttf</item>
+        <item>Raleway/Raleway-ExtraLight.ttf</item>
+        <item>Raleway/Raleway-Light.ttf</item>
+        <item>Raleway/Raleway-Bold.ttf</item>
+        <item>Raleway/Raleway-Regular.ttf</item>
+        <item>Raleway/Raleway-Heavy.ttf</item>
+        <item>Arimo/Arimo-Regular.ttf</item>
+        <item>Arimo/Arimo-Italic.ttf</item>
+        <item>Arimo/Arimo-Bold.ttf</item>
+        <item>Arimo/Arimo-BoldItalic.ttf</item>
+        <item>Poiret_One/PoiretOne-Regular.ttf</item>
+        <item>Homemade_Apple/HomemadeApple.ttf</item>
+        <item>Pathway_Gothic_One/PathwayGothicOne-Regular.ttf</item>
+        <item>Anton/Anton.ttf</item>
+
+    </string-array>
+
+</resources>
